@@ -36,3 +36,11 @@
 
 - 低压电工证
 - 电工高级（三级）证书
+
+## 常用收藏
+
+- [1748477582/tia-portal-openness-mcp](https://github.com/1748477582/tia-portal-openness-mcp) — 支持 V18/V20/V21，MIT，SCL 生成、编译诊断
+- [bulaofen0036-coder/TIA_Portal_Openness_MCP](https://github.com/bulaofen0036-coder/TIA_Portal_Openness_MCP) — V20/V21 预编译版，最多人用
+- [agimx-ai/seedagent-tia-programming](https://github.com/agimx-ai/seedagent-tia-programming) — SeedAgent，S7-1200/1500，SCL 自动生成，有中文说明
+- [lopez-dev/Siemens-SCL-Source-Files](https://github.com/lopez-dev/Siemens-SCL-Source-Files) — SCL 源码合集，可直接导入博途
+- [KOPE-SOLUTION/plc-roadmap-beginner-to-iiot](https://github.com/KOPE-SOLUTION/plc-roadmap-beginner-to-iiot) — S7-1200 学习路线，梯形图加实操
